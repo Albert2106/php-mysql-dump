@@ -3,7 +3,7 @@ jplesueur@phrozen.io
 
 https://www.twitter.com/DarkCoderSc
 
-#Description:
+# Description:
 Dump all accessible databases and tables to HTML format.
 
 I made this script for my needs during my PWK/OSCP training for one box.
